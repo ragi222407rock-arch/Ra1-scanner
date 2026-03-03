@@ -1,4 +1,8 @@
-# 🔎 RA1 Scanner
+<p align="center">
+  <img src="logo.png" width="250">
+</p>
+
+<h1 align="center">Ra1 Scanner</h1># 🔎 RA1 Scanner
 
 RA1 Scanner is a beginner-friendly automated vulnerability scanning tool built using Python.
 It integrates Nmap and Nikto to perform port scanning and basic web vulnerability detection, and generates structured reports.
@@ -103,3 +107,4 @@ The developer is not responsible for any misuse.
 Rahul Singh
 Cybersecurity Enthusiast
 Kali Linux | Python | Ethical Hacking
+
